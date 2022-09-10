@@ -1,4 +1,3 @@
-import 'dart:async';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_demo/bloc/reddit_list_event.dart';
 import 'package:flutter_demo/bloc/reddit_list_state.dart';
